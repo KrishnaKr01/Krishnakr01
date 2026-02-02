@@ -1,16 +1,19 @@
-## Hi there 👋
+💫 About Me:
+Hi, I am Krishna, Full stack developer
 
-<!--
-**KrishnaKr01/Krishnakr01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌐 Socials:
+email
 
-Here are some ideas to get you started:
+💻 Tech Stack:
+CSS3 HTML5 Java JavaScript Python Netlify Bootstrap NodeJS Next JS React Socket.io Three js TailwindCSS MongoDB Adobe Photoshop Git GitHub Portfolio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 GitHub Stats:
+
+
+
+
+
+
+
+
+
