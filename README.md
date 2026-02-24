@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I am krishna 
+Hi, I am krishna kumar
 
 
 ## 🌐 Socials:
